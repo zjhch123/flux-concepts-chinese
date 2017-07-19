@@ -1,6 +1,6 @@
 # flux的概念(译)
 > 原文地址：[flux-concepts](https://github.com/facebook/flux/blob/master/examples/flux-concepts/README.md)
-> 我的英语水平不高。这是第一次翻译英语文章，不足之处多多见谅…
+> 我的英语水平不高。这是我第一次翻译英语文章，不足之处多多见谅…
  
 当你在使用Flux写app的时候，你必须知道这些非常重要的高水平的概念与原则。
 
